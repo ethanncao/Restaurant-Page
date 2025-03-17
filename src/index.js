@@ -1,7 +1,7 @@
 import { homePage } from "./home-load.js";
 import { menuPage } from "./menu-load.js";
 import { contactPage } from "./contact-load.js";
-import "./styles.css";
+
 
 homePage();
 
